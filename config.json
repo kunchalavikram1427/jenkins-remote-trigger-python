@@ -1,0 +1,7 @@
+{
+    "jenkins_url": "http://IP:PORT",
+    "user": "admin",
+    "user_token": "YOUR-TOKEN",
+    "job_name": "test",
+    "job_token": "JOB-TOKEN"
+}
