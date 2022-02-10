@@ -25,7 +25,7 @@ url = jenkins_url+'/job/'+job_name+'/build?token='+job_token
 print(f"[Info]: Triggering the job: {url}")
 
 # Send the HTTP Request
-result = requests.post(url, auth = ('admin', '11bfb4a19deaf7aef928a84a4a63b12e25'))
+result = requests.post(url, auth = (user, user_token))
 
 if int(result.status_code) != 201: 
     print(f"[Error]: Triggering remote job failed with status_code: {result.status_code}")
