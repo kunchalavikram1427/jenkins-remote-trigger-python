@@ -37,5 +37,3 @@ if int(result.status_code) != 201:
     print(f"[Error]: Triggering remote job failed with status_code: {result.status_code}")
     exit(1)
 print(f"[Success]: Remote job triggered successfully with status_code: {result.status_code}")
-
-
