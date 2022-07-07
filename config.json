@@ -7,7 +7,7 @@
     "isTheJobParametrized": true,
     "my_data": {
         "IMAGE_NAME": "python-demo-app",
-        "IMAGE_TAG": "8.88",
+        "IMAGE_TAG": "1.01",
         "ENVIRONMENT": "uat",
         "isWorking": true
     }
