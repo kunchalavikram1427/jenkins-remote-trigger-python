@@ -17,3 +17,9 @@ jenkins_url = jsonConfigContent['jenkins_url']
 ```
 ## Run the script
 Modify the config.json and run the script as `python remote-trigger.py`
+
+
+## Useful Links
+```
+https://www.geeksforgeeks.org/reading-writing-text-files-python/
+```
