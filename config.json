@@ -4,7 +4,7 @@
     "user_token": "USER_TOKEN",
     "job_name": "YOUR_JOB_NAME",
     "job_token": "YOUR_JOB_TOKEN",
-    "isTheJobParametrized": true,
+    "isTheJobParametrized": false,
     "my_data": {
         "IMAGE_NAME": "python-demo-app",
         "IMAGE_TAG": "1.01",
